@@ -1,6 +1,6 @@
 {
     "PreviousScene": "",
-    "TargetScene": "",
+    "TargetScene": "Assets/Scenes/Forest.unity",
     "AdditionalReferences": [],
-    "SelectedPlatform": 0
+    "SelectedPlatform": 2
 }
